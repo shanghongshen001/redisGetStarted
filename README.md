@@ -1,5 +1,5 @@
 # redisGetStarted
-redis get started / redis 入门中午教程
+redis get started / redis 入门中文教程
 
 # 有错误请指出啊 一点拙见
 
