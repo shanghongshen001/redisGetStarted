@@ -14,7 +14,7 @@ c#中比较知名的两个redis客户端库有：ServiceStack.Redis 和 StackExc
 
 打开nuget 按照下载量排序，可以看到StackExchange.Redis 下载量雄踞第一
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh901trbcwj30p00f740v.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh901trbcwj30p00f740v.jpg)
 
 # 使用StackExchange.Redis连接redis服务端
 
@@ -27,10 +27,10 @@ c#中比较知名的两个redis客户端库有：ServiceStack.Redis 和 StackExc
 
 
 ## 1.新建一个控制台应用
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh906oza7tj311f0hhdh3.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh906oza7tj311f0hhdh3.jpg)
 
 ## 2.nuget安装StackExchange.Redis
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh907lzsxaj30p00f775s.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh907lzsxaj30p00f775s.jpg)
 
 ## 基本使用
 
@@ -42,7 +42,7 @@ ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("127.0.0.1:6379");
 ```
 
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fha4zqdu91j310t0g43zo.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fha4zqdu91j310t0g43zo.jpg)
 
 
 ```
@@ -68,7 +68,7 @@ access an individual server for maintenance / monitoring purposes
 IDatabase db = redis.GetDatabase();
 
 ```
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fha6c1de6bj311y0kqmzp.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fha6c1de6bj311y0kqmzp.jpg)
 
 ### 3.2 string操作
 
@@ -81,7 +81,7 @@ Console.WriteLine(value); // writes: "abcdefg"
 
 ```
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fha6f0c9fjj311y0jj40j.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fha6f0c9fjj311y0jj40j.jpg)
 
 
 ---

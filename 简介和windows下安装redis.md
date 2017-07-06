@@ -96,7 +96,7 @@ Redis 官方没有提供windows下面安装的方法,windows下的Redis是微软
 
 ---
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8umb8xmmj30rx0fs76o.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8umb8xmmj30rx0fs76o.jpg)
 
 更多资料请参考[WIKI](https://github.com/MSOpenTech/redis/wiki/Memory-Configuration)
 
@@ -104,11 +104,11 @@ Redis 官方没有提供windows下面安装的方法,windows下的Redis是微软
 
 ## 1.下载
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8vcm7bcqj30vb0futb6.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8vcm7bcqj30vb0futb6.jpg)
 
 **我下载的msi安装版**
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8vfftedtj30sa0hjjt6.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8vfftedtj30sa0hjjt6.jpg)
 
 ## 2.安装
 

@@ -9,11 +9,11 @@
 
 让我不解的是安装好的目录下面有很多的pdb文件，这些调试文件会很影响性能，我不知道开发团队为什么要把这些文件打包到安装包中去，作为一个强迫症患者，我建议删掉这些文件。删除的时候提示删不掉，请先停止redis服务。
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8yeae02rj30nl0aqdh5.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8yeae02rj30nl0aqdh5.jpg)
 
 ## 简单介绍目录
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8ysr6u70j30kt07rgmf.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8ysr6u70j30kt07rgmf.jpg)
 
 按类型排个序可以看到 有用的就是
 - 2个conf配置文件
@@ -43,7 +43,7 @@
 
 我下载的是MSI版本的安装包，在安装之前我猜想这种安装包可能或帮我配置好环境，安装后发现它还把Redis server 注册成了服务。
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8yfe47mnj30qg01omxc.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8yfe47mnj30qg01omxc.jpg)
 
 ## 两种服务端启动方法
 
@@ -74,9 +74,9 @@ redis-server.exe redis.windows.conf
 
 **启动服务端**
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8zkm93eyj30rl0efjs3.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8zkm93eyj30rl0efjs3.jpg)
 
-![image](https://ws1.sinaimg.cn/large/006aR3cagy1fh8zlgosdhj30rl0efq37.jpg)
+![image](https://raw.githubusercontent.com/shanghongshen001/redisGetStarted/master/imgs006aR3cagy1fh8zlgosdhj30rl0efq37.jpg)
 
 
 
